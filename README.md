@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  ![Snake animation](https://github.com/lenoscoper/lenoscoper)
+  ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif)
 </div>
 <!---
 lenoscoper/lenoscoper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
