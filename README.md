@@ -4,7 +4,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenoscoper&layout=compact&langs_count=7"/>
 </div>
 <div>
-  ![](https://github.com/lenoscoper/lenoscoper/raw/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lenoscoper/lenoscoper/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!---
 lenoscoper/lenoscoper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
