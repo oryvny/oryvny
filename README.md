@@ -1,4 +1,4 @@
-## Olá! Eu sou a Oryvny
+## Olá! Eu sou o Oryvny
 
 - 🔭 Hoje estou desempregado
 - 🌱 Estudando Linux
@@ -13,6 +13,7 @@
   <img align="center" alt="Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Windows8" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
 </div>  
   
 ##
